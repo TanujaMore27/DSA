@@ -1,4 +1,10 @@
-class Solution {
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello" << endl;
+    return 0;
+}class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         unordered_map<char,int> freq;
