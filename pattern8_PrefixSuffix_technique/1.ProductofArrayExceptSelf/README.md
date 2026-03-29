@@ -55,7 +55,3 @@ You must write an algorithm that runs in O(n) time and without using the divisio
 
 * Instead of making prefix and suffix array and multiply them separately optimize it by multiplying in place.
 
-
-
-
-
